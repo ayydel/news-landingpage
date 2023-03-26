@@ -51,6 +51,8 @@ h3 {
 
 .title {
     color: var(--dark-grayish-clr);
+    font-size: 1.2rem;
+    font-weigth: var(--font-wght-bold);
 }
 
 .box-content h3 {
