@@ -49,6 +49,10 @@ h3 {
     color: var(--font-clr-wht);
 }
 
+.title {
+    color: var(--dark-grayish-clr);
+}
+
 .box-content h3 {
     color: var(--number-clr);
     font-size: 1.5rem;
